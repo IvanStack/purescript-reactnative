@@ -20,7 +20,7 @@
   "devDependencies": {
     "babel-jest": "19.0.0",
     "babel-preset-react-native": "1.9.1",
-    "bower": "^1.8.0",
+    "bower": "^1.8.8",
     "jest": "19.0.2",
     "react-test-renderer": "~15.4.0",
     "rimraf": "^2.5.4"
